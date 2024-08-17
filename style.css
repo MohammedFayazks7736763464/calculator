@@ -1,0 +1,336 @@
+*{
+    font-family: "Roboto", sans-serif;
+}
+.box{
+    width: 415px;
+    height: 800px;
+    /* background-image: url('https://www.ytechb.com/wp-content/uploads/2023/09/iPhone-15-Wallpaper-2.webp'); */
+    margin-top: 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    
+    border-radius: 70px;
+   margin-left: 60%;
+   border: 13px ridge rgb(69, 69, 157);
+   box-shadow: 2px 3px 4px rgb(74, 74, 154);
+  
+   
+}
+.header{
+    background-color:black;
+    height: 40px;
+    
+    
+     width: 150px;
+     /* margin-left: 29%; */
+     border-bottom-left-radius:25px;
+     border-bottom-right-radius:25px;
+    border-radius: 20px;
+    margin: 7px;
+    /* margin-left: 33%; */
+    
+}
+.time{
+    margin-left: 207px;
+    padding: 10px;
+
+}
+
+.tt{
+    height: 100px;
+}
+
+.kk{
+    height: 500px;
+}
+.main{
+   display: flex;
+   justify-content: center;
+   height: 100px;
+}
+.uu{
+    padding: 16px;
+
+}
+.tim{
+    padding: 17px;
+}
+.lo{
+    height: 127px;
+}
+.cal{
+    background-color: white;
+    border-radius: 25px;
+    height: 140px;
+    width: 150px;
+}
+.klo{
+    color: white;
+    margin-left: 40px;
+    
+}
+.rr{
+    height: 145px;
+    border-radius:25px ;
+}
+.jk{
+   display: flex;
+   justify-content: space-evenly;
+   
+
+}
+.ro{
+    height: 65px;
+}
+.sett{
+    background-color: white;
+    border-radius: 20px;
+    width: 70px;
+    height: 70px;
+}
+.leo{
+    width: 70px;
+    height: 70px;
+    border-radius: 20px;
+}
+.es{
+    width: 70px;
+    height: 70px;
+    border-radius: 20px;
+}
+.ic{
+    width: 70px;
+    height: 70px;
+    border-radius: 20px;
+    
+
+}
+.last{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:rgba(255,255,255,0.5);
+    backdrop-filter: blur(35px);
+    border-radius: 20px;
+    margin: 20px;
+}
+.tube{
+    width: 60px;
+    height: 60px;
+}
+.apps{
+    display: flex;
+    justify-content: space-evenly;
+    height: 100px;
+    
+}
+.ar{
+    font-size: 15px;
+    color: white;
+    font-weight: lighter;
+}
+.twi{
+    width: 60px;
+    height: 55px;
+}
+.ra{
+    font-size: 15px;
+    color: white;
+    font-weight: lighter;
+    margin-left: 15px;
+}
+.folder{
+    display: flex;
+    justify-content: space-evenly;
+    height: 100px;
+}
+.rss{
+    font-size: 15px;
+    color: white;
+    font-weight: lighter;
+    margin-left: 10px;
+}
+#blur{
+    
+    background-color:rgba(255,255,255,0.5);
+    backdrop-filter: blur(4px);
+    padding: 20px;
+    margin: 6px;
+
+}
+.spo{
+    display: flex;
+    justify-content: space-evenly;
+    height: 125px;
+}
+.klm{
+    font-size: 15px;
+    color: white;
+    font-weight: lighter;
+    margin-left: 10px;
+}
+.mo{
+    font-size: 15px;
+    color: white;
+    font-weight: lighter;
+    margin-left: 10px;
+}
+.gum{
+    background-image: url('https://cdn-images-1.medium.com/max/1200/0*GCsRzy_KeKr1HD1u.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 100%;
+
+
+}
+.tube:hover{
+    scale: 1.11;
+
+}
+.ro:hover{
+    scale: 1.11;
+}
+.es:hover{
+    scale: 1.11;
+}
+.ic:hover{
+    scale: 1.11;
+}
+.leo:hover{
+    scale: 1.11;
+}
+.ara{
+
+    font-size: 15px;
+    color: white;
+    font-weight: lighter;
+    margin-left: 12px;
+
+}
+.line{
+    background-color: white;
+    height: 7.5px;
+    width: 200px;
+    border-radius: 30px;
+}
+.bar{
+    margin-left: 105px;
+}
+
+.kl{
+    color: white;
+}
+.fa-solid{
+    color: white;
+    margin: 2px;
+}
+
+.so{
+    height: 60px;
+    width: 100%;
+    text-align: right;
+    border: none;
+    font-size: 60px;
+    color: white;
+    background-color: black;
+    padding: 20px;
+    
+}
+.hope{
+    background-color: orange;
+    width: 75px;
+    height: 70px;
+    border-radius: 50px;
+    font-weight: 400;
+    font-size: 30px;
+    border: none;
+}
+.bomb{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 15px;
+    
+}
+.poh{
+    width: 75px;
+    border-radius: 30px;
+    height: 70px;
+    border-radius:50px ;
+    font-size: 30px;
+    font-weight:400;
+    background-color: gray;
+    border: none;
+    color: black;
+
+}
+.atom{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 15px;
+}
+.police{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 15px;
+}
+.cops{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 15px;
+
+}
+.oops{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 15px;
+}
+.dot{
+    width: 75px;
+    border-radius: 30px;
+    height: 70px;
+    border-radius:50px ;
+    font-weight: 400;
+    font-size: 30px;
+    border: none;
+    color: white;
+    background-color:rgb(71, 69, 69);
+
+    
+    
+    
+}
+.fine{
+
+   height: 70px;
+   width: 173px;
+   border-radius: 35px;
+   font-weight: 400;
+    font-size: 30px;
+    border: none;
+    color: white;
+    background-color:rgb(71, 69, 69)
+    
+
+   
+
+}
+.way{
+    background-color: white;
+    height: 5px;
+    width: 150px;
+    border-radius: 40px;
+    margin-top: 14px;
+}
+.vara{
+    display: flex;
+    justify-content: center;
+}
+.fa-delete-left{
+    color:black;
+}
+.spain{
+    background-color: black;
+    height: 130px;
+    
+}
